@@ -1,8 +1,9 @@
 # Module-4-Python-Challenge
 
 #From Weekly Module Overview E-mail
+#Second line from Module 5 Challenge
 
-In this assignment, I used what I've learned this week to evaluate the performance among various algorithmic, hedge and mutual fund portfolios and compare them against the S&amp;P 500 Index. 
+In this assignment, I’ll usequantitative analysis techniques with Python and Pandas, and I’ll determine which portfolio is performing the best across multiple areas:volatility, returns, risk, and Sharpe ratios.
 In this module, I learned how to use Pandas and the JupyterLab IDE to collect, prepare, and analyze financial data.
 
 #
@@ -32,4 +33,5 @@ I need to create a tool (an analysis notebook) that analyzes and visualizes the 
 
  
 ![Picture](https://www.columbia.edu/content/themes/custom/columbia/assets/img/cu-header.svg)
+
 
