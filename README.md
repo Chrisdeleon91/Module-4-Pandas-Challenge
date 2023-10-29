@@ -1,6 +1,7 @@
 # Module-4-Python-Challenge
 
 #First line rom Module 4 Challenge: Background
+
 #Second line from Unit 4: Pandas email
 
 In this assignment, I’ll use quantitative analysis techniques with Python and Pandas, and I’ll determine which portfolio is performing the best across multiple areas:volatility, returns, risk, and Sharpe ratios.
@@ -10,6 +11,7 @@ In this module, I learned how to use Pandas and the JupyterLab IDE to collect, p
 ## 1. A Whale off the Port(folio)
 
 ##First line from Module 4 Challenge "Background"
+
 ##Second line From Module 4 Challenge "What You're Creating"
 
 I have been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best.
