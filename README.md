@@ -7,7 +7,6 @@
 In this assignment, I’ll use quantitative analysis techniques with Python and Pandas, and I’ll determine which portfolio is performing the best across multiple areas:volatility, returns, risk, and Sharpe ratios.
 In this module, I learned how to use Pandas and the JupyterLab IDE to collect, prepare, and analyze financial data.
 
-#
 ## 1. A Whale off the Port(folio)
 
 ##First line from Module 4 Challenge "Background"
@@ -18,6 +17,7 @@ I have been investing in algorithmic trading strategies. Some of the investment 
 I've just learned these quantitative analysis techniques with Python and Pandas and I want to determine which portfolio is performing the best across multiple areas:volatility, returns, risk, and Sharpe ratios.
 I need to create a tool (an analysis notebook) that analyzes and visualizes the major metrics of the portfolios across all of these areas, and determine which portfolio outperformed the others. I will be given the historical daily returns of several portfolios: some from the firm's algorithmic portfolios, some that represent the portfolios offamous "whale" investors like Warren Buffett and some from the big hedge and mutual funds. I will then use this analysis to create a custom portfolio of stocks and compareits performance to that of the other portfolios, as well as the larger market [S&P 500 Index](https://en.wikipedia.org/wiki/S%26P/TSX_60).
 
+#From Module 4 Challenge "Instructions"
 
 * Prepare the Data
 * Perform Quantitative Analysis
