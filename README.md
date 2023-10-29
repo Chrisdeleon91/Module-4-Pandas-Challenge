@@ -3,7 +3,7 @@
 #From Weekly Module Overview E-mail
 #Second line from Module 5 Challenge
 
-In this assignment, I’ll usequantitative analysis techniques with Python and Pandas, and I’ll determine which portfolio is performing the best across multiple areas:volatility, returns, risk, and Sharpe ratios.
+In this assignment, Iâ€™ll use quantitative analysis techniques with Python and Pandas, and Iâ€™ll determine which portfolio is performing the best across multiple areas:volatility, returns, risk, and Sharpe ratios.
 In this module, I learned how to use Pandas and the JupyterLab IDE to collect, prepare, and analyze financial data.
 
 #
