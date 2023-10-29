@@ -9,7 +9,8 @@ In this module, I learned how to use Pandas and the JupyterLab IDE to collect, p
 #
 ## 1. A Whale off the Port(folio)
 
-##From Module 4 Challenge Info
+##First line from Module 4 Challenge "Background"
+##Second line From Module 4 Challenge "What You're Creating"
 
 I have been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best.
 I've just learned these quantitative analysis techniques with Python and Pandas and I want to determine which portfolio is performing the best across multiple areas:volatility, returns, risk, and Sharpe ratios.
